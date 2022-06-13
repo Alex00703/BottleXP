@@ -1,0 +1,7 @@
+name: BottleXP
+version: 1.0
+author: Alex
+main: fr.alex.plugin.BottleXP
+commands:
+  bottlexp:
+    description: Conversion de l'exp du joueur en bouteille.
